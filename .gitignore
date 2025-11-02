@@ -1,0 +1,18 @@
+# Node
+node_modules/
+# Expo
+.expo/
+.expo-shared/
+# IDE
+.vscode/
+*.log
+# OS
+.DS_Store
+Thumbs.db
+# Env
+.env
+.env.local
+# Build
+build/
+android/
+ios/
